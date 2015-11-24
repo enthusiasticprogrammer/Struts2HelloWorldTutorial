@@ -4,7 +4,7 @@
 	<groupId>com.ep.examples</groupId>
 	<artifactId>Struts2HelloWorldTutorial</artifactId>
 	<packaging>war</packaging>
-	<version>1.0.0</version>
+	<version>0.0.1-SNAPSHOT</version>
 	<name>Struts 2 Hello World Tutorial</name>
 	<url>http://www.enthusiasticprogrammer.com/</url>
 	<dependencies>
