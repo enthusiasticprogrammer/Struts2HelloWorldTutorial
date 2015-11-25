@@ -12,7 +12,7 @@
 		</action>
 
 		<action name="hello" class="com.ep.helloworld.action.HelloWorldAction">
-			<result name="success">/HelloWorld.jsp</result>
+			<result name="success">/view/HelloWorld.jsp</result>
 		</action>
 
 	</package>
